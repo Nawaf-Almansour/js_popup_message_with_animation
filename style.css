@@ -25,6 +25,7 @@ body {
     font-family: "Poppins", sans-serif;
     align-items: center;
     justify-content: space-between;
+    overflow: hidden;
 }
 
 .cookie {
