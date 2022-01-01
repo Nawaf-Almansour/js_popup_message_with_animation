@@ -27,8 +27,12 @@ body{
 }
 
 .cookies-title {
-
+font-size: 1.2rem;
+    font-weight: lighter;
 }
 .cookie-subtitle {
-
+    font-size: 0.7rem;
+    font-weight: bold;
 }
+
+
