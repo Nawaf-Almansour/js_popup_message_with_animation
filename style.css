@@ -31,6 +31,7 @@ body {
 .cookie {
     /*padding: 0.8rem;*/
     transform: scale(0.6);
+    overflow: visible;
 }
 
 .text {
